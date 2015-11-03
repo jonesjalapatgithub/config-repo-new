@@ -1,1 +1,5 @@
 company: wipro
+
+logging:
+    level:
+        netgloo: INFO
