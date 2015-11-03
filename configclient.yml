@@ -1,5 +1,5 @@
 company: wipro
 
-logging:
-    level:
-        netgloo: DEBUG
+#logging:
+    #level:
+        #netgloo: DEBUG
