@@ -2,4 +2,4 @@ company: wipro
 
 logging:
     level:
-        netgloo: INFO
+        netgloo: DEBUG
