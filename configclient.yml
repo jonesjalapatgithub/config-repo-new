@@ -1,5 +1,9 @@
 company: wipro
 
-#logging:
-    #level:
-        #netgloo: DEBUG
+logging:
+    level:
+        springboot.configclient: INFO
+
+    org:
+        springframework:
+            web: INFO
