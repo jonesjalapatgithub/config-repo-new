@@ -2,7 +2,7 @@ company: wipro
 
 logging:
     level:
-        springboot.configclient: INFO
+        springboot.configclient: DEBUG
 
     org:
         springframework:
