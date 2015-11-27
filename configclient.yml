@@ -1,8 +1,8 @@
-company: Cybage
+company: Cybageasha
 
 logging:
     level:
-        springboot.configclient: DEBUG
+        springboot.configclient: INFO
 
     org:
         springframework:
