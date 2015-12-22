@@ -1,9 +1,3 @@
-company: Cybageasha
 
-logging:
-    level:
-        springboot.ocr-races: DEBUG
-
-    org:
-        springframework:
-            web: DEBUG
+reply:
+  message: Pong Reply From GIT server at 25Nov_12PM
