@@ -1,3 +1,11 @@
 
 reply:
   message: Pong Reply From GIT server at 22Dec_1PM
+
+logging:
+    level:
+        springboot.configclient: INFO
+
+    org:
+        springframework:
+            web: DEBUG
