@@ -4,7 +4,7 @@ reply:
 
 logging:
     level:
-        springboot.configclient: DEBUG
+        springboot.ocr-races: DEBUG
 
     org:
         springframework:
