@@ -3,9 +3,6 @@ reply:
   message: Pong Reply From GIT server at 23Dec_12.08PM
 
 logging:
-    level:
-        springboot.ocr-races: DEBUG
+  level:
+    org.springframework.web: DEBUG    
 
-    org:
-        springframework:
-            web: DEBUG
