@@ -4,5 +4,6 @@ reply:
 
 logging:
   level:
+    org.springframework.boot.env.PropertySourcesLoader: DEBUG
     org.springframework.web: DEBUG    
 
