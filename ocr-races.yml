@@ -5,5 +5,5 @@ reply:
 logging:
   level:
     springboot.ocr-races: INFO
-    org.springframework.web: DEBUG    
+    org.springframework.web: INFO    
 
