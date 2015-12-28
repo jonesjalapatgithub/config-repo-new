@@ -4,7 +4,6 @@ reply:
 
 logging:
   levels:
-    org.springframework.boot.env.PropertySourcesLoader: DEBUG
     springboot.ocr-races: DEBUG
     org.springframework.web: DEBUG    
 
