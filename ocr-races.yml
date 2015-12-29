@@ -1,7 +1,3 @@
 reply:
   message:  Reply From GIT server to races application at 23Dec_9:25AM
 
-logging:
-  level:
-    springboot.ocr-races: DEBUG
-    org.springframework.web: DEBUG  
