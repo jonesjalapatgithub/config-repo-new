@@ -8,7 +8,7 @@ logging :
         spring :
           cloud :
             ocr :
-              races : DEBUG
+              races : INFO
 reply:
   message:  Reply From GIT server to races application at 23Dec_9:25AM
 
