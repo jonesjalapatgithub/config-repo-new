@@ -2,7 +2,7 @@ company: Cybageasha
 
 logging:
     level:
-        springboot.ocr-races: INFO
+        springboot.ocr-races: DEBUG
 
     org:
         springframework:
