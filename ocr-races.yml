@@ -1,3 +1,14 @@
+logging :
+  level : 
+    org :
+      springframework : 
+        web : DEBUG
+    com : 
+      ryanjbaxter :
+        spring :
+          cloud :
+            ocr :
+              races : DEBUG
 reply:
   message:  Reply From GIT server to races application at 23Dec_9:25AM
 
