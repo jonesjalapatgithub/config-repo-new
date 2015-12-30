@@ -2,7 +2,6 @@ logging:
   level:
     com.ryanjbaxter:
       spring.cloud.ocr.races: INFO
-      jones: DEBUG
+      jones: INFO
 reply:
   message:  Reply From GIT server to races application at 23Dec_9:25AM
-
