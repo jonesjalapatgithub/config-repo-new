@@ -1,0 +1,5 @@
+company: Cybageasha
+
+logging:
+    level:
+        springboot.configclient: DEBUG
