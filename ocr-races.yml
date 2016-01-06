@@ -4,4 +4,4 @@ logging:
       spring.cloud.ocr.races: INFO
       jones: DEBUG
 reply:
-  message:  Reply From GIT server to races application by jones at 06jan201604:25
+  message:  Reply From GIT server to races application by jones alapat at 06jan201604:25
