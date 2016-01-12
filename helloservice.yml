@@ -1,2 +1,6 @@
 reply:
   message:  to see whether change in log level happens to info mode.
+
+logging:
+  level:
+    com.cybage.microservice.rest: DEBUG
